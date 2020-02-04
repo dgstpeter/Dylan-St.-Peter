@@ -1,0 +1,13 @@
+body {
+    font-size: 16px;
+    background-color: whitesmoke;
+
+}
+
+p {
+  color: blue;
+}
+
+.testclass {
+  font-size: 2em;
+}
